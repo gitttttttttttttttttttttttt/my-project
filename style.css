@@ -1,3 +1,7 @@
 body {
     background-color: #fff;
 }
+
+nav {
+    border: 1px solid red;
+}
