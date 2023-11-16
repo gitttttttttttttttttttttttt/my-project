@@ -1,7 +1,10 @@
 body {
     background-color: #fff;
+    font-weight: bold;
 }
 
 nav {
     border: 1px solid red;
+    color: purple;
+    text-decoration: none;
 }
