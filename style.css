@@ -1,7 +1,10 @@
 body {
     background-color: #fff;
+    color: blue;
 }
 
 nav {
     border: 1px solid red;
+    color: pink;
+    font-size: larger;
 }
