@@ -10,3 +10,7 @@ nav {
     color: purple;
     text-decoration: none;
 }
+
+p {
+    font-size: larger;
+}
